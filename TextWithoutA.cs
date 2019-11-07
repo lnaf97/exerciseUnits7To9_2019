@@ -2,7 +2,7 @@
 
 using System;
 
-class TextWithouA
+class TextWithoutA
 {
     static void Main()
     {
